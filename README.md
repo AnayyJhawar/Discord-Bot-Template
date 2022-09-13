@@ -16,7 +16,7 @@ Run it, and you are all set!
 
 
 
-#Features it includes:
+# Features it includes:
 
 -- Economy
 -- Moderation
