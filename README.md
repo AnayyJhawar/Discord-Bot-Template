@@ -16,9 +16,14 @@ Run it, and you are all set!
 
 
 
-# Features it includes:
+## Features it includes:
 
----> Economy
----> Moderation
----> Utility
----> Fun
+1. Economy
+2. Moderation
+3. Utility
+4. Fun
+5. A lot of fun!
+
+###Where to host?
+ 
+ You can host on multiple places like your PC, rasberry pi, Replit etc. But just to let you know that I host mine on https://basementnodes.xyz/ as it provides the best uptime with no flaws and is one of the best hosting plattform!
