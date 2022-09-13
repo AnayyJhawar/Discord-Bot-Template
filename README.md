@@ -18,7 +18,7 @@ Run it, and you are all set!
 
 # Features it includes:
 
--- Economy
--- Moderation
--- Utility
--- Fun
+--> Economy
+--> Moderation
+--> Utility
+--> Fun
