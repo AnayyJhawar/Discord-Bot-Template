@@ -24,6 +24,6 @@ Run it, and you are all set!
 4. Fun
 5. A lot of fun!
 
-###Where to host?
+### Where to host?
  
  You can host on multiple places like your PC, rasberry pi, Replit etc. But just to let you know that I host mine on https://basementnodes.xyz/ as it provides the best uptime with no flaws and is one of the best hosting plattform!
