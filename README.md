@@ -26,4 +26,4 @@ Run it, and you are all set!
 
 ### Where to host?
  
- You can host on multiple places like your PC, rasberry pi, Replit etc. But just to let you know that I host mine on https://basementnodes.xyz/ as it provides the best uptime with no flaws and is one of the best hosting plattform!
+ You can host on multiple places like your PC, rasberry pi, Replit etc. But just to let you know that I host mine on https://ioniqpace.store/ as it provides the best uptime with no flaws and is one of the best hosting plattform!
